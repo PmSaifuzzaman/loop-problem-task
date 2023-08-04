@@ -4,7 +4,7 @@ function addNumbers(a,b){
     return a+b ;
 }
 const sum = addNumbers(8,9);
-console.log(sum);
+console.log('Sum is', sum);
 
 // Basic Square output
 function square(num){
